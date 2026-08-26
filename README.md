@@ -1,1 +1,1 @@
-Pair test
+Pair test.
